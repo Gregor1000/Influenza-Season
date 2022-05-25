@@ -22,7 +22,7 @@ Counts of influenza laboratory test results by state (survey) from US-[CDC](http
 Counts of visits of patients with influenza in hospital from US-[CDC](https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html)
 Survey of flu shot rates in children from US-[CDC](https://www.cdc.gov/vaccines/imz-managers/nis/about.html)
 ## Presentation of findings
-The findings were prensented via an [Interim-Report](https://github.com/Gregor1000/Influenza-Season/blob/708f65ae39bdced546dafd0bb6bc6e8b8e905e77/Preparing%20for%20Influenza%20Season%20Interim%20Report.pdf) and and [End-Video-Presentation](https://www.youtube.com/watch?v=nDTl1NYc2yY) of my [Tableau-Story-Dashboard](https://public.tableau.com/app/profile/gregor.liftinger/viz/E3A9/InfluenzaSeasonPreparation?publish=yes)
+The findings were prensented via an [Interim-Report](https://github.com/Gregor1000/Influenza-Season/blob/708f65ae39bdced546dafd0bb6bc6e8b8e905e77/Preparing%20for%20Influenza%20Season%20Interim%20Report.pdf) and [End-Video-Presentation](https://www.youtube.com/watch?v=nDTl1NYc2yY) of my [Tableau-Story-Dashboard](https://public.tableau.com/app/profile/gregor.liftinger/viz/E3A9/InfluenzaSeasonPreparation?publish=yes)
 ## CareerFoundry Course Learnings
 + Formulate Research Hypothesis
 + Conducting Statistical Analysis
