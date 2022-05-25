@@ -2,7 +2,7 @@
 The data analyst course at CareerFoundry was project-based. For learning Tableau Public, I did the following project:
 # Preparing for Influenza-Season
 ## Objective
-Analyze data for a lan the staffing needs across the US for a medical staffing agency during Influenza season
+Analyze data for the staffing needs across the US for a medical staffing agency during Influenza season
 ## Requirements
 1. Provide information to support a staffing plan, detailing what data can help inform the timing
 and spatial distribution of medical personnel throughout the United States.
